@@ -123,23 +123,6 @@ Os resultados demonstram que um conjunto reduzido das variáveis mais relevantes
 
 ---
 
-## Como Executar
-
-1. Clone este repositório.
-2. Instale as dependências:
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Execute o notebook localizado em:
-
-```text
-notebooks/Classificacao_Vinhos.ipynb
-```
-
----
-
 ## Autora
 
 **Taciana**
